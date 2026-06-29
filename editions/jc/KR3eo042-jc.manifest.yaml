@@ -1,0 +1,203 @@
+canonical_identifier: bkk:krp/KR3eo042/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eo042/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 養生食忌
+  identifiers:
+    krp: KR3eo042
+  tags:
+    kr-categories: KR3eo
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eo042.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eo042_000-jc.yaml, hash: 'sha256:41065fed793587188852442b1c8833c669165bebe8b412565b4434ccec795249'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eo042_000-jc.markers.yaml, hash: 'sha256:31d30b235331db29fa2adfca854010e0ff66a2d575d1042fdb4609e14a88c239'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eo042_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 90
+  label: 五穀食忌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo042_jc_000-d3.h1s1
+    span:
+    - body
+    - 90
+    - 168
+  label: 五味食忌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo042_jc_000-d4.h1s1
+    span:
+    - body
+    - 168
+    - 302
+  label: 五果食忌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo042_jc_000-d5.h1s1
+    span:
+    - body
+    - 302
+    - 448
+  label: 五菜食忌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo042_jc_000-d6.h1s1
+    span:
+    - body
+    - 448
+    - 692
+  label: 六畜食忌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo042_jc_000-d7.h1s1
+    span:
+    - body
+    - 692
+    - 859
+  label: 諸禽食忌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo042_jc_000-d8.h1s1
+    span:
+    - body
+    - 859
+    - 1107
+  label: 蟲魚食忌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo042_jc_000-d9.h1s1
+    span:
+    - body
+    - 1107
+    - 1367
+  label: 孕婦食忌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo042_jc_000-d10.h1s1
+    span:
+    - body
+    - 1367
+    - 1410
+  label: 乳母食忌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo042_jc_000-d11.h1s1
+    span:
+    - body
+    - 1410
+    - 1507
+  label: 小兒食忌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo042_jc_000-d12.h1s1
+    span:
+    - body
+    - 1507
+    - 1867
+  label: 逐月食忌附永當戒食
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo042_jc_000-d13.h1s1
+    span:
+    - body
+    - 1867
+    - 1903
+  label: 諸果有毒
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo042_jc_000-d14.h1s1
+    span:
+    - body
+    - 1903
+    - 1931
+  label: 諸獸有毒
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo042_jc_000-d15.h1s1
+    span:
+    - body
+    - 1931
+    - 1979
+  label: 諸禽有毒
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo042_jc_000-d16.h1s1
+    span:
+    - body
+    - 1979
+    - 2042
+  label: 諸魚有毒
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo042_jc_000-d17.h1s1
+    span:
+    - body
+    - 2042
+    - 2284
+  label: 飲食害人
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo042_jc_000-d18.h1s1
+    span:
+    - body
+    - 2284
+    - 2498
+  label: 飲食相反
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo042_jc_000-d19.h1s1
+    span:
+    - body
+    - 2498
+    - 2988
+  label: 附急救良方
+  type: section
+  level: 1
+hash: sha256:f8018294ed90adc0b13cf6fb1f6a7a95508d81f7be6204e7ed842993b14b4a6f
