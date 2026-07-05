@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eo042_000.yaml, hash: 'sha256:1c6e141c7fc33722c42aac79f56aab0019839a491ca0d5f3a6d62531d50427c7'}
+  - {seq: 0, filename: KR3eo042_000.yaml, hash: 'sha256:41065fed793587188852442b1c8833c669165bebe8b412565b4434ccec795249'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eo042_000.markers.yaml, hash: 'sha256:7c1645a1d49086b1a4c36dacb9d6cb3e836b8d49b9efe7c0196477f347b325a7'}
+  - {seq: 0, role: markers, filename: assets/KR3eo042_000.markers.yaml, hash: 'sha256:17ced64f1d2a95038ccb18270fc6714a5b2da266b7fb97c0ba9340bf70d26de6'}
 table_of_contents:
 - ref:
     seq: 0
@@ -200,7 +200,4 @@ table_of_contents:
   label: 附急救良方
   type: section
   level: 1
-hash: sha256:45c20275e72193e127b4a5dc50b3484cc7d4928429f241af87e5dfc0b7985880
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:78cdc39d95beb0fad86038fb58bfc993cedf1fdb40e1b01659c3ae3ea7354601
