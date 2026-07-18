@@ -18,7 +18,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eo042_000.yaml, hash: 'sha256:9ad3c1d4f0bb1973ca0c91138d8380e779200b9c4746965463904abc1e45f267'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eo042_000.markers.yaml, hash: 'sha256:3b04fa1689ac4ff179c09d1f125cc3fd11c8e726ab9c541e305f00a407a8177d'}
+  - {seq: 0, role: markers, filename: assets/KR3eo042_000.markers.yaml, hash: 'sha256:964605d079053fa7e491af0aa9d427de2c597dde5f813164165827772e586450'}
 table_of_contents:
 - ref:
     seq: 0
@@ -200,7 +200,7 @@ table_of_contents:
   label: 附急救良方
   type: section
   level: 1
-hash: sha256:ffe326e5da3fec7a63eb620d0ae05638d9e01cf0e9f970b403e9492d0663f45b
+hash: sha256:52a14d94c23e27c96631982580b016ea21cbc3ebb2573ee851bddfc84357a347
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
